@@ -2,7 +2,7 @@
 
 This repository contains spot availability and preemption traces collected from the cloud providers and the scripts to collect and process the traces. 
 
-The data was used in paper *Can't Be Late: Optimizing Spot Instance Savings under Deadlines with SkySpot* (NSDI 24). The policy in the paper is prototyped on [SkyPilot](https://github.com/skypilot-org/skypilot).
+The data was used in paper *Can't Be Late: Optimizing Spot Instance Savings under Deadlines* (NSDI 24). The policy in the paper is prototyped on [SkyPilot](https://github.com/skypilot-org/skypilot).
 
 
 ## Data Description
